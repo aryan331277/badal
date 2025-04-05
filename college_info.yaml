@@ -1,0 +1,48 @@
+# college_info.yaml
+dining:
+  mess_hall:
+    "The main mess hall is located in Building D and operates from 7:00 AM to 9:00 PM daily. Breakfast: 7:00-9:30 AM, Lunch: 12:00-2:30 PM, Dinner: 7:00-9:00 PM. The meal plan costs ₹3000 per month. Vegetarian and non-vegetarian options available. Special dietary requirements can be accommodated with prior notice."
+  cafeteria:
+    "The campus cafeteria is in the Student Center, open 9:00 AM to 11:00 PM. It offers snacks, beverages, and light meals at affordable prices. Weekend timing: 10:00 AM to 10:00 PM."
+  night_canteen:
+    "Located near Hostel Block C, the night canteen operates from 10:00 PM to 2:00 AM. Perfect for late-night study sessions."
+
+laundry:
+  main_service:
+    "Laundry services are available in each hostel building's ground floor. Cost: ₹50 per 5kg load. Operating hours: 8:00 AM to 8:00 PM daily. Average turnaround time is 24 hours."
+  dry_cleaning:
+    "Professional dry cleaning service is available twice a week (Monday and Thursday). Clothes must be dropped off before 10:00 AM at the laundry desk. Charges vary depending on the item."
+  self_service:
+    "Self-service washing machines and dryers are available in Hostel Blocks A, B, and C. Cost: ₹20 per use. Token available at the hostel reception."
+
+library:
+  main_library:
+    "The Central Library is located in the Academic Block. Opening hours: 8:00 AM to 12:00 AM on weekdays, 9:00 AM to 8:00 PM on weekends. Houses over 50,000 books, journals, and digital resources. Students can borrow up to 5 books for 14 days."
+  digital_resources:
+    "Access to e-journals, e-books, and research databases is available through the college portal. You can access these resources using your student login credentials from anywhere on campus or via VPN off-campus."
+  study_rooms:
+    "12 group study rooms are available for booking through the library website. Each room accommodates 4-6 students and can be booked for up to 3 hours per day."
+
+sports:
+  indoor_facilities:
+    "Indoor sports complex includes badminton courts, table tennis, chess, carrom, and a fully equipped gym. Open from 6:00 AM to 10:00 PM daily."
+  outdoor_facilities:
+    "Outdoor facilities include a cricket field, football ground, basketball courts, and tennis courts. Floodlights available until 9:00 PM. Equipment can be borrowed from the sports office with student ID."
+  swimming_pool:
+    "The swimming pool is open from 6:00 AM to 8:00 AM and 4:00 PM to 8:00 PM on weekdays, 8:00 AM to 6:00 PM on weekends. Swimming cap is mandatory."
+
+medical:
+  health_center:
+    "The campus health center is located near the Administrative Block. It operates 24/7 with a doctor available during the day (8:00 AM to 8:00 PM) and on-call at night. Basic medications are provided free of cost."
+  ambulance:
+    "Emergency ambulance service is available 24/7. Contact campus security at extension 1000 or the health center at extension 2000 for emergencies."
+  health_insurance:
+    "All students are covered under the college's health insurance policy. For major treatments, students can avail cashless treatment at networked hospitals. Contact the administrative office for details."
+
+wifi:
+  network_info:
+    "Campus-wide WiFi is available. Network name: 'College_WiFi'. Login with your student ID and password. Data limit: 5GB per day."
+  tech_support:
+    "For WiFi related issues, contact IT helpdesk at extension 3000 or email helpdesk@college.edu. Office hours: 9:00 AM to 5:00 PM on weekdays."
+  computer_labs:
+    "24/7 computer labs are available in the Academic Block with high-speed internet and printing facilities. Use your student ID to access."
