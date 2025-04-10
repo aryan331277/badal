@@ -6,3 +6,4 @@ chromadb
 huggingface_hub
 pyyaml
 nest_asyncio
+os
