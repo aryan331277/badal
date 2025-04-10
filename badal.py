@@ -25,8 +25,8 @@ except FileNotFoundError:
         college_info = yaml.safe_load(f)
     print("Successfully loaded college info!")
 
-TELEGRAM_TOKEN = "8066053254:AAGjzDDLCG9nxK-5B41cS-wVTOXvvOzWMoY"  # Replace with input() if needed
-HF_TOKEN = "HF"  # Replace with input() if needed
+TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
+HF_TOKEN = os.environ["HUGGINGFACEHUB_API_TOKEN"]
 
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HF_TOKEN
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
