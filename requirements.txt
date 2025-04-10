@@ -1,0 +1,8 @@
+python-telegram-bot==20.6
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+huggingface_hub
+pyyaml
+nest_asyncio
