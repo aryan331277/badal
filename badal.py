@@ -2,8 +2,7 @@ import os
 import yaml
 import logging
 import asyncio
-# REMOVED: from google.colab import files # Specific to Colab, cannot use on Render
-from telegram import Update
+from langchain_huggingface import HuggingFaceEmbeddings # Use updated import pathfrom telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
