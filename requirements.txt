@@ -6,3 +6,4 @@ chromadb
 huggingface_hub
 pyyaml
 sentence-transformers 
+numpy<2.0 
